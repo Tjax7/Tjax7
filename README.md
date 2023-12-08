@@ -3,7 +3,7 @@
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>Logistic Regression (Python, Streamlit, HTML, CSS)</b>
-  - [Are You on LinkedIn?](https://github.com/Tjax7/linkedinuser)
+  - [Are You on LinkedIn?](https://linkedinuser-ys4tgndtuyapphjwqwwmsej.streamlit.app/)
 
 <h2> 🤳 Connect with me: 📫</h2>
 
